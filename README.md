@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bahubaliak
 - 👀 I’m interested in Javascript
-- I am currently working as a FullStack developer and I have 3.8 years of experience in Html, CSS, Javascript, React and Ruby.
+- I am currently working as a FullStack developer and I have 4 years of experience in Html, CSS, Javascript, React and Ruby and Ruby on Rails.
 
 <!---
 Bahubaliak/Bahubaliak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
